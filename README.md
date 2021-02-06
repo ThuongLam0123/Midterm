@@ -2,10 +2,8 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
     <title>Module 04</title>
-	<style>
+    <style>
     			h1 {
 				font-family: "Times New Roman", Times, serif;
 				font-weight: bold;
@@ -50,7 +48,7 @@
 				background position: center;
 				width: 90%;
 				margin: 0 auto;}
-  	</style>
+  </style>
   </head>
   <body>
 		<div id="header">
