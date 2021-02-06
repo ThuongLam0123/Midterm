@@ -3,11 +3,10 @@
 <html lang="en-US">
   <head>
     <meta charset="utf-8">
-  		<meta name="viewport" content="width=device-width">
- 		<title>Module 04</title>
-  		<link rel="stylesheet" media="screen" href="https://fontlibrary.org/en" type="text/css"/>
-    <style>
-      h1 {
+    <meta name="viewport" content="width=device-width">
+    <title>Module 04</title>
+	<style>
+    			h1 {
 				font-family: "Times New Roman", Times, serif;
 				font-weight: bold;
 				font-style:italic;
@@ -51,7 +50,7 @@
 				background position: center;
 				width: 90%;
 				margin: 0 auto;}
-        </style>
+  	</style>
   </head>
   <body>
 		<div id="header">
