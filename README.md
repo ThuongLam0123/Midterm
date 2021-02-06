@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/M04-Assignment/assets/css/style.css?v=4ddfc4dc1349b30b40eddffa3b395c4dc9fea813">
+    <meta charset="utf-8">
+  		<meta name="viewport" content="width=device-width">
+ 		<title>Module 04</title>
+  		<link rel="stylesheet" media="screen" href="https://fontlibrary.org/en" type="text/css"/>
     <style>
       h1 {
 				font-family: "Times New Roman", Times, serif;
@@ -54,21 +54,6 @@
         </style>
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://thuonglam0123.github.io/M04-Assignment/">M04-Assignment</a></h1>
-      
-
-      <p>&lt;!DOCTYPE html&gt;</p>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-  		<meta name="viewport" content="width=device-width" />
- 		<title>Module 04</title>
-  		<link rel="stylesheet" media="screen" href="https://fontlibrary.org/en" type="text/css" />
-		<link rel="stylesheet" type="text/css" href="M04style.css" />
-  </head>
-	<body>
 		<div id="header">
 			<h1>Logo</h1>
 			<div id="nav">
@@ -99,13 +84,4 @@
 			<p>&copy; Copyright 2011</p>
 		</div>
 	</body>
-</html>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-    
-  </body>
 </html>
