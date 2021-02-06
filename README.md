@@ -3,14 +3,7 @@
 <html lang="en-US">
   <head>
     <title>Module 04</title>
-    <style>
-    			h1 {
-				font-family: "Times New Roman", Times, serif;
-				font-weight: bold;
-				font-style:italic;
-				color: #7FFFD4;
-				}	
-				
+    <style type="text/css">		
 			* {
 				font-family: Arial, Verdana, sans-serif;
 				color: #8A2BE2;
@@ -43,11 +36,11 @@
 				margin-bottom: 1em;
 				background-color: coral;}
 			#feature{
-				background-image: url("https://images.app.goo.gl/MgiR4wxjQhPEpFGG6");
-				background-size: contain;
-				background position: center;
-				width: 90%;
-				margin: 0 auto;}
+				 background-color: #8CC63E;
+ 				 background-image: url(""https://images.app.goo.gl/MgiR4wxjQhPEpFGG6"");
+ 				 background-size:contain;
+				 background-position: right;
+ 				 background-repeat:no-repeat;}
   </style>
   </head>
   <body>
