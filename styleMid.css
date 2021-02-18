@@ -68,3 +68,6 @@ border-top: 1px solid #e1e1e1;
 }
 
 .search { float: right; }
+
+.cleft { float: left; width: 280px; margin: 10px 0; }
+.cright { float: right; width: 280px; margin: 10px 0; }
