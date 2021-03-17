@@ -14,11 +14,25 @@ Please contact me through the below email and address.
 
 <p>NOTE:  We are not doing SERVER-SIDE scripting, but just simulating how to send the data to the server.  The way this work is by using the attribute action in your <form>:
 
-<form action="name-of-your-thankyou-page.html" method="get"
-name="myContact">
+<div class="container">
+  <form action="action_page.php">
 
-...
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
-</form></p>
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="email">Email</label>
+    <input type="text" id="email" name="email" placeholder="Your email..">
+
+    <label for="comment">Comment</label>
+    <textarea id="comment" name="comment" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+
+  </form>
+</div>
+
 </body>
 </html>
